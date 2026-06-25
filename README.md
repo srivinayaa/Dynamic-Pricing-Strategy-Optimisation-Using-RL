@@ -1,1 +1,1 @@
-# Dynamic-Pricing-Using-RL
+# Dynamic-Pricing-Strategy-Optimisation-Using-RL
